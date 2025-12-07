@@ -1,4 +1,4 @@
-# Redka Talk
+# Redka
 
 A key-value LSM database inspired by BitCask.
 
